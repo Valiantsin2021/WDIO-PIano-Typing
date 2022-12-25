@@ -10,7 +10,7 @@ class PianoPage extends Page {
     return $$('.black-key')
   }
   async acceptCookies() {
-   if (await this.cookiesAcceptBtn.isExisting()) {
+    if (await this.cookiesAcceptBtn.isExisting()) {
       await this.cookiesAcceptBtn.click()
     }
     return
