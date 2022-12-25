@@ -1,4 +1,4 @@
-name: Orangehrmlive e2e test and negative login test with Chrome browser
+name: Piano play e2e test with Chrome browser
 
 on: [push]
 

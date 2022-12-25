@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Sun Dec 25 15:17:34 CET 2022","Sun Dec 25 15:17:43 CET 2022","9516","","Playing piano!!!","","Playing piano!!!","should login with valid credentials","should login with valid credentials",""
-"passed","Sun Dec 25 15:17:43 CET 2022","Sun Dec 25 15:17:52 CET 2022","8607","","Playing piano!!!","","Playing piano!!!","plays piano on https://pianobynumber.com","plays piano on https://pianobynumber.com",""
+"passed","Sun Dec 25 20:04:35 CET 2022","Sun Dec 25 20:04:41 CET 2022","5775","","Playing piano!!!","","Playing piano!!!","plays piano on https://pianobynumber.com","plays piano on https://pianobynumber.com",""
+"passed","Sun Dec 25 20:04:29 CET 2022","Sun Dec 25 20:04:35 CET 2022","5349","","Playing piano!!!","","Playing piano!!!","should login with valid credentials","should login with valid credentials",""
