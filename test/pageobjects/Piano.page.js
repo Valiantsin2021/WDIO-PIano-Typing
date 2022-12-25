@@ -10,8 +10,10 @@ class PianoPage extends Page {
     return $$('.black-key')
   }
   async acceptCookies() {
-    await this.cookiesAcceptBtn.waitForDisplayed()
-    await this.cookiesAcceptBtn.click()
+   if (await this.cookiesAcceptBtn.isExisting()) {
+      await this.cookiesAcceptBtn.click()
+    }
+    return
   }
   async play() {
     console.log(await this.whiteKeys.length)
