@@ -1,0 +1,1 @@
+[{"uid":"9cea1d9c24ac4a0e","name":"should login with valid credentials","time":{"start":1671972681123,"stop":1671972687560,"duration":6437},"status":"passed","severity":"normal"},{"uid":"e4f1b086b03da246","name":"plays piano on https://pianobynumber.com","time":{"start":1671972687561,"stop":1671972694532,"duration":6971},"status":"passed","severity":"normal"}]

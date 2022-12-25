@@ -1,0 +1,4 @@
+cypress.config.js
+node_modules/
+mochawesome-report/
+allure-report
