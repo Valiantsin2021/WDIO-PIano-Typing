@@ -8,7 +8,9 @@
     "clean": "rimraf allure-report && rimraf allure-results && rimraf screenshots/failed-tests/*",
     "wdio": "wdio run wdio.conf.js",
     "wdio-headless": "wdio run wdio-github.conf.js",
-    "prepare": "husky install"
+    "prepare": "husky install",
+    "run:github": "npm run clean && npm run wdio-headless",
+    "format": "prettier --write ."
   },
   "keywords": [],
   "author": "",
